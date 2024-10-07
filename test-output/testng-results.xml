@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-14T21:55:16 IST" name="Default suite" finished-at="2024-09-14T21:56:07 IST" duration-ms="51012">
+    <groups>
+    </groups>
+    <test started-at="2024-09-14T21:55:16 IST" name="Default test" finished-at="2024-09-14T21:56:07 IST" duration-ms="51012">
+      <class name="DemoTestNg.Demo">
+        <test-method signature="websiteopen()[pri:1, instance:DemoTestNg.Demo@1cbbffcd]" started-at="2024-09-14T21:55:16 IST" name="websiteopen" finished-at="2024-09-14T21:55:58 IST" duration-ms="41769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- websiteopen -->
+        <test-method signature="login()[pri:2, instance:DemoTestNg.Demo@1cbbffcd]" started-at="2024-09-14T21:55:58 IST" name="login" finished-at="2024-09-14T21:56:04 IST" duration-ms="5826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:3, instance:DemoTestNg.Demo@1cbbffcd]" started-at="2024-09-14T21:56:04 IST" name="logout" finished-at="2024-09-14T21:56:07 IST" duration-ms="2867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- DemoTestNg.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
